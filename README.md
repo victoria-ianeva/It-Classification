@@ -1,4 +1,4 @@
-# it
+# Classifying Referential and Non-referential It Using Gaze
 
 This repository contains code, annotation and data for the study on classifying referential and non-referential it using gaze:
 
